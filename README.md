@@ -1,2 +1,2 @@
 # html-portfolio
-First Git Repository
+Basic Portfolio Project
